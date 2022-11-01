@@ -1,2 +1,2 @@
-# unity101.
+# unity101
 Yossaphon Anantaworraphot 6502086
